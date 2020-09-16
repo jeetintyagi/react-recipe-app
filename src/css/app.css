@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap');
+
+body {
+  background-color: #1a1a2e;
+  color: #bbe1fa;
+}
+
+.card {
+  background-color: #16213e;
+}
+
+h3 {
+  color: #e94560;
+}
